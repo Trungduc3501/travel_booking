@@ -117,7 +117,7 @@ const Footer = () => {
                     <span><i className="ri-map-pin-line"></i></span>
                    Email: 
                   </h6>
-                  <p className="mb-0">nguyenhailong305</p>
+                  <p className="mb-0">nguyentrungduc3501</p>
                 </ListGroupItem>
 
             </ListGroup>
@@ -127,7 +127,7 @@ const Footer = () => {
                     <span><i className="ri-map-pin-line"></i></span>
                    Phone: 
                   </h6>
-                  <p className="mb-0">+84364697068</p>
+                  <p className="mb-0">+84353687513</p>
                 </ListGroupItem>
 
             </ListGroup>
@@ -135,7 +135,7 @@ const Footer = () => {
           </Col>
 
           <Col lg="12" className="text-center pt-5">
-            <p className="copyright" >Copyright {year} , design and develop by nguyenhailong . All right reserved</p>
+            <p className="copyright" >Copyright {year} , design and develop by nguyentrungduc . All right reserved</p>
           </Col>
         </Row>
       </Container>
